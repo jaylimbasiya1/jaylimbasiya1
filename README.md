@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on competitive programming skills
 - 🌱 I’m currently learning about Software Development , Testing & Devops   
 - 📫 You can reach me through mail at ljm.limbasiya@gmail.com
-- ⚡ Fun fact: I love watching Documentries ! 🖤 
+- ⚡ Fun fact: I love watching Documentries !
 
 ### ⚡ Technologies
 #### Front-end 
