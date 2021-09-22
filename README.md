@@ -4,7 +4,7 @@
 - 🎓 I'm currently pursuing my Master's at **[IIITB](https://www.iiitb.ac.in/)**!
 - 🔭 I’m currently working on competitive programming skills
 - 🌱 I’m currently learning about Software Development , Testing & Devops   
-- 📫 You can reach me through mail at ljm.limbasiya@gmail.com
+- 📫 You can reach me through mail at Jaykumar.Limbasiya@iiitb.ac.in
 - ⚡ Fun fact: I love watching Documentries !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaylimbasiya1" alt="jaylimbasiya" /> </p>
