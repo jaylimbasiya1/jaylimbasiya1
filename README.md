@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love watching Documentries !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaylimbasiya1" alt="jaylimbasiya" /> </p>
-<a href="linkedin.com/in/jay-limbasiya-b47249141">
+<a href="https://www.linkedin.com/in/jay-limbasiya-b47249141/">
   <img align="left" alt="JayLimbasiya's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a></br>
 
