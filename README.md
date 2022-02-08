@@ -43,4 +43,5 @@
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cpp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-
+![go](https://img.shields.io/badge/-go-black?style=flat-square&logo=go)
+![rust](https://img.shields.io/badge/-rust-black?style=flat-square&logo=rust)
